@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aroxxxx&show_icons=true&hide_title=true&theme=dark">
 
-Bot falan minimum bilgim var takılıyorum kendi halimde
+Javascript bilgim var azcık öğrenmeye çalışıyorum zamanla bi yandan da üşeniyorum 🤦‍♂️
 
 - Canım sıkılıyo yapcak bişey olmuyo
 - Yakında ufak tefek şeyler paylaşırım sanırsam üşenmezsem
