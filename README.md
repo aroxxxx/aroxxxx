@@ -5,5 +5,6 @@
 Bot falan minimum bilgim var takılıyorum kendi halimde
 
 - Canım sıkılıyo yapcak bişey olmuyo
+- Yakında ufak tefek şeyler paylaşırım sanırsam üşenmezsem
 - Takıldığım herhangi bir yer yok aşşağıda profil linkim var ulaşabilirsiniz
 [Discord Profilim](https://discord.com/users/724000634512343101)
