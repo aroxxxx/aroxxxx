@@ -2,9 +2,4 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aroxxxx&show_icons=true&hide_title=true&theme=dark">
 
-Javascript bilgim var azcık öğrenmeye çalışıyorum zamanla bi yandan da üşeniyorum 🤦‍♂️
-
-- Canım sıkılıyo yapcak bişey olmuyo
-- Yakında ufak tefek şeyler paylaşırım sanırsam üşenmezsem
-- Takıldığım herhangi bir yer yok aşşağıda profil linkim var ulaşabilirsiniz
-[Discord Profilim](https://discord.com/users/724000634512343101)
+biz ikimiz tek tüm piyasaya denk
